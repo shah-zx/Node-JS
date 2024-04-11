@@ -1,0 +1,44 @@
+[
+    {
+        "id": 2,
+        "duration": 55,
+        "release_year": 2017,
+        "name": "Avengers"
+    },
+    {
+        "id": 3,
+        "duration": 75,
+        "release_year": 2018,
+        "name": "Baby Boss"
+    },
+    {
+        "id": 4,
+        "duration": 80,
+        "release_year": 2012,
+        "name": "Hachet"
+    },
+    {
+        "id": 5,
+        "duration": 90,
+        "release_year": 2011,
+        "name": "Resident Evil"
+    },
+    {
+        "id": 6,
+        "duration": 85,
+        "release_year": 2015,
+        "name": "Pool"
+    },
+    {
+        "id": 7,
+        "duration": 105,
+        "release_year": 2005,
+        "name": "Harry Potter"
+    },
+    {
+        "id": 8,
+        "duration": 105,
+        "release_year": 2005,
+        "name": "Harry Potter"
+    }
+]

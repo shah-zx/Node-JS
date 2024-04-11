@@ -1,0 +1,6 @@
+{
+  "name" : "Dead",
+  "description" : "The dead movie",
+  "ratings" : 8,
+  "year"  : 2020
+}

@@ -1,0 +1,18 @@
+{
+  "name": "express-new",
+  "version": "1.0.0",
+  "description": "learning express",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Shahnawaz",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "espress": "^0.0.0",
+    "express": "^4.18.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.0"
+  }
+}
